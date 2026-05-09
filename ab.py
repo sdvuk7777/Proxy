@@ -8,10 +8,10 @@ import os
 # GitHub configuration
 GITHUB_REPO_OWNER = "sdvuk7777"
 GITHUB_REPO_NAME = "UMbatchdb"
-GITHUB_ACCESS_TOKEN = "x"
+GITHUB_ACCESS_TOKEN = ""
 
 # MongoDB configuration
-MONGO_URI = "x"
+MONGO_URI = ""
 DB_NAME = "studyuk_batches"
 
 def get_all_json_files():
